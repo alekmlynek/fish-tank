@@ -7,5 +7,6 @@ In an attempt to refresh my knowledge in objective-c, I created this tiny fish-t
 - Make fish interact with one another
 
 **INSTRUCTIONS**
+
 Open project in XCode. Compile. Gaze at the wonderful ASCII fish in debug window.
 
